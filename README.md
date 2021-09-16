@@ -1,6 +1,6 @@
 ### Pytorch 1.9.0 code for:
 `F-CAM: Full Resolution CAM via Guided Parametric Upscaling` ([https://arxiv.
-org/abs/xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx))
+org/abs/2109.07069](https://arxiv.org/abs/2109.07069))
 
 
 ### Issues:
