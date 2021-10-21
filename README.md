@@ -1,6 +1,16 @@
 ### Pytorch 1.9.0 code for:
-`F-CAM: Full Resolution CAM via Guided Parametric Upscaling` ([https://arxiv.
+`F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling` ([https://arxiv.
 org/abs/2109.07069](https://arxiv.org/abs/2109.07069))
+
+### Citation:
+```
+@InProceedings{belharbi2022fcam,
+  title={F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling},
+  author={Belharbi, S. and Sarraf, A. and Pedersoli, M. and Ben Ayed, I. and McCaffrey, L. and Granger, E.},
+  booktitle = {WACV},
+  year={2022}
+}
+```
 
 
 ### Issues:
