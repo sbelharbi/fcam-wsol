@@ -21,6 +21,8 @@ Please create a github issue.
 * [Requirements](#re2q)
 * [Datasets](#datasets)
 * [Run code](#run)
+* [Method](#method)
+* [Results](#results)
 
 #### <a name='reqs'> Requirements</a>:
 
@@ -121,3 +123,19 @@ time python main_wsol.py --task F_CL \
                          --entropy_fc False \
                          --exp_id 08_19_2021_14_09_48_915565__1492324
 ```
+
+#### <a name='method'> Method</a>:
+
+<img src="doc/fcam-intuition.png" alt="fcam-intuition" width="600">
+
+<img src="doc/fcam-method.png" alt="fcam-method" width="600">
+
+#### <a name='results'> Results</a>:
+
+<img src="doc/fcam-cub-results.png" alt="fcam-cub-results" width="600">
+
+<img src="doc/fcam-openimages-results.png" alt="fcam-openimages-results" width="600">
+
+<img src="doc/fcam-taux-sensitivity.png" alt="fcam-taux-sensitivity" width="600">
+
+<img src="doc/fcam-cam-distribution.png" alt="fcam-cam-distribution" width="600">
