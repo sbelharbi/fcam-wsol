@@ -2,7 +2,7 @@
 `F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling` ([https://arxiv.
 org/abs/2109.07069](https://arxiv.org/abs/2109.07069))
 
-### [[Slides]](/doc/wacv-2022-fcam-slides.pdf)  [[Video presentation]](/doc/1177-wacv.mp4)  [[Poster]](/doc/1177-wacv-poster.pdf)
+### WACV 2022: [[Slides]](/doc/wacv-2022-fcam-slides.pdf)  [[Video presentation]](/doc/1177-wacv.mp4)  [[Poster]](/doc/1177-wacv-poster.pdf)
 
 ### Citation:
 ```
