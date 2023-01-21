@@ -48,8 +48,8 @@ folds/wsol-done-right-splits/dataset-scripts). For more details, see
 
 Once you download the datasets, you need to explicitly set 'baseurl' in
 [get_root_wsol_dataset()](dlib/configure/config.py) to point to the folder parent containing your data. Inside the 'baseurl' folder there
- should be your dataset in folder named with the same name as your dataset. The function [configure_data_paths](dlib/configure/config.py) 
- will setup the exact path to the dataset using 'baseurl' and the dataset nname.
+ should be your dataset in folder named with the same name as your dataset. The function [configure_data_paths()](dlib/configure/config.py) 
+ will setup the exact path to the dataset using 'baseurl' and the dataset name.
 
 
 #### <a name="datasets"> Run code </a>:
