@@ -49,6 +49,11 @@ def get_root_wsol_dataset():
             # this cate my happen if someone calls this function outside a job.
             baseurl = "{}/datasets/wsol-done-right".format(os.environ["SCRATCH"])
 
+    else:  # any user can use this.
+        # set your absolute path such as:
+        # baseurl = '/folder1/folder2/folder3'
+        pass
+
     msg_unknown_host = "Sorry, it seems we are enable to recognize the " \
                        "host. You seem to be new to this code. " \
                        "We recommend you to add your baseurl on your own."
